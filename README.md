@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **arta@thred.ai**
 
-- - 📫 Website **artak.dev**
+- 📫 Website: <a href="https://artak.dev" target="blank">artak.dev</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
