@@ -4,7 +4,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandratulchinsky" alt="alexandratulchinsky" /></a> </p>
  -->
 
-- 🔭 I’m currently working on Customer Migration Tooling at Thred
+- 🔭 I’m currently working on Finance Automation Tooling at Thred
 
 - 🌱 I’m currently learning Generative AI, RAG and how it can help product teams.
 
