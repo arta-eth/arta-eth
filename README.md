@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on Finance Automation Tooling at Thred
 
-- 🌱 I’m currently learning Generative AI, RAG and how it can help product teams.
-
 - 📫 How to reach me **arta@thred.ai**
 
 - 🌐 Website: <a href="https://artak.dev" target="_blank">artak.dev</a>
