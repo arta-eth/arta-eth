@@ -4,7 +4,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandratulchinsky" alt="alexandratulchinsky" /></a> </p>
  -->
 
-- 🔭 I’m currently working on AI GTM tools at Thred
+- 🔭 I’m currently working on Thred, a new type of buyer research platform for AI search.
 
 - 📫 How to reach me **arta@thred.ai**
 
