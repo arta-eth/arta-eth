@@ -4,7 +4,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandratulchinsky" alt="alexandratulchinsky" /></a> </p>
  -->
 
-- 🔭 CTO @ Thred, the Revenue OS for ChatGPT.
+- 🔭 CTO @ Thred, the Buyer Intent platform for AI Search.
 
 - 📫 How to reach me **arta@thred.ai**
 
